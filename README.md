@@ -8,4 +8,7 @@ MSc Computing student at Sheffield Hallam University, with a background in UI/UX
 - 💼 [LinkedIn](https://www.linkedin.com/in/temiloluwa-alle-b606b120a/)
 
 ### Projects
-Coming soon: home lab, IT scripts, testing and web projects.
+- **[tega-bill-splitter](https://github.com/Txmiloluwa/tega-bill-splitter)**: Python bill splitter that settles a group in the fewest payments, with 65 automated tests and CI
+- **[it-support-scripts](https://github.com/Txmiloluwa/it-support-scripts)**: Bash and PowerShell scripts for help desk tasks, tested on Linux, macOS and Windows
+
+More coming: security home lab, web and data projects.
